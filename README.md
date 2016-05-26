@@ -8,3 +8,4 @@ This theme's name is uno. It means the first one in italy. It is just a simply t
 #### 0.1.1
 - Use gzip for the style file
 - Change tag's style
+- Rebuild the structure of this project
