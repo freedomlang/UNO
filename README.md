@@ -13,3 +13,7 @@ This theme's name is uno. It means the first one in italy. It is just a simply t
 #### 0.1.2
 - Optimize the style of tags
 - Change the mobile menu
+
+#### 0.1.3
+- Turn off the autofill function of search panel
+- Optimize the "a" tag's motion
