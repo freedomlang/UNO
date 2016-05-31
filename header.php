@@ -40,7 +40,7 @@
   <div class="circle"></div>
 </div>
 <div class="search">
-		<form class="sform" action="./" method="post">
+		<form autocomplete="off" class="sform" action="./" method="post">
 <div class="table-center">
 			<p>按回车键搜索</p>
     		<input type="text" id="search" autofocus="true" name="s"></div>
@@ -79,7 +79,7 @@
                             <a<?php if($this->is('page', $pages->slug)): ?> class="current"<?php endif; ?> href="<?php $pages->permalink(); ?>"><?php $pages->title(); ?></a>
                         <?php endwhile; ?>
 <?php if($this->user->hasLogin()):?><?php if (!$this->is('index')):?><?php if($this->user->pass('editor','true')):?><a href="/dieci/write-post.php?cid=<?php echo $this->cid;?>">编辑</a><?php endif;?><?php endif;?><?php endif;?>
-<a href="javascritp:void(0);" onclick="show()"><i class="fa fa-search"></i></a>
+<a href="#/" onclick="show()"><i class="fa fa-search"></i></a>
                     </nav>
                 </div>
             </div><!-- end .row -->
