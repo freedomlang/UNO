@@ -21,6 +21,7 @@ This theme's name is uno. It means the first one in italy. It is just a simply t
 #### 0.1.4
 - Add auto load function to the articles
 - fix bugs of codepen's embed
+- delete files
 
 ### To do
 - Optimize the css file
