@@ -18,6 +18,10 @@ This theme's name is uno. It means the first one in italy. It is just a simply t
 - Turn off the autofill function of search panel
 - Optimize the "a" tag's motion
 
+#### 0.1.4
+- Add auto load function to the articles
+- fix bugs of codepen's embed
+
 ### To do
-- Add "auto load" function to the articles
+- Optimize the css file
 - Rebuil the footer of articles
