@@ -23,6 +23,10 @@ This theme's name is uno. It means the first one in italy. It is just a simply t
 - fix bugs of codepen's embed
 - delete files
 
+#### 0.1.5
+- Add some animate
+- remove unnesscary styles
+
 ### To do
 - Optimize the css file
 - Rebuil the footer of articles
