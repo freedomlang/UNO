@@ -1,0 +1,28 @@
+{
+  "name": "uno",
+  "version": "1.0.0",
+  "description": "My first theme for typecho",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freedomlang/UNO.git"
+  },
+  "keywords": [
+    "theme",
+    "typecho"
+  ],
+  "author": "blackywkl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freedomlang/UNO/issues"
+  },
+  "homepage": "https://github.com/freedomlang/UNO#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cached": "^1.1.0",
+    "gulp-util": "^3.0.7"
+  }
+}
