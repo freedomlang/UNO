@@ -19,7 +19,9 @@
         ), '', ' - '); ?><?php $this->options->title(); ?></title>
 
     <!-- 使用url函数转换相关路径 -->
-
+    <link rel="stylesheet" href="http://cdn.staticfile.org/normalize/2.1.3/normalize.min.css">
+    <link rel="stylesheet" href="http://ccccc-10022761.file.myqcloud.com/grid.css">
+    <link rel="stylesheet" href="http://ccccc-10022761.file.myqcloud.com/rt.css">
     <link rel="stylesheet" href="<?php $this->options->themeUrl('style.min.css.php'); ?>">
     <link rel="stylesheet" href="http://ccccc-10022761.file.myqcloud.com/pure-min.css">
     <link rel="icon" type="image/ico" href="<?php $this->options->themeUrl('favicon.ico'); ?>">
