@@ -51,4 +51,6 @@ $(document).ready(function() {
     setTimeout(function () {
         document.getElementsByTagName('footer')[0].style.opacity='1';
     }, 410);
+    // Go to top plugin
+    $.goup();
 })
